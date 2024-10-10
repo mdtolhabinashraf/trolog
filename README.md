@@ -38,7 +38,7 @@ func main() {
     trolog := trolog.NewLogger("info", os.Stdout, true, "")
 
     // Log an info-level message
-    trolog.Info("Hello, World!")
+    trolog.Info("hello world!")
 
     // Output format example:
     // ID:1 INFO 2024-10-10T10:24:44+06:00 hello world!
