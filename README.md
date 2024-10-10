@@ -1,6 +1,6 @@
-# troLogger
+# trolog
 
-troLogger is a structured logger with configurable options in Go.
+TroLog is a structured logger with configurable options in Go.
 
 ## Features
 
@@ -11,5 +11,5 @@ troLogger is a structured logger with configurable options in Go.
 ## Installation
 
 ```bash
-go get github.com/tolhaofficial0/troLogger
+go get -u github.com/mdtolhabinashraf/trolog
 ```
