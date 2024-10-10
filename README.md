@@ -11,5 +11,5 @@ troLogger is a structured logger with configurable options in Go.
 ## Installation
 
 ```bash
-go get github.com/tolhaofficial0/troLogger
+go get github.com/mdtolhabinashraf/troLogger
 ```
